@@ -10,13 +10,20 @@
     "check": "svelte-check --tsconfig ./tsconfig.json"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
-    "@tsconfig/svelte": "^2.0.1",
-    "svelte": "^3.44.0",
-    "svelte-check": "^2.2.7",
-    "svelte-preprocess": "^4.9.8",
-    "tslib": "^2.3.1",
-    "typescript": "^4.5.4",
+    "@iconify-json/carbon": "^1.1.5",
+    "@sveltejs/vite-plugin-svelte": "1.0.0-next.44",
+    "@tsconfig/svelte": "^3.0.0",
+    "@unocss/preset-attributify": "^0.33.5",
+    "@unocss/preset-icons": "^0.33.5",
+    "@unocss/preset-uno": "^0.33.5",
+    "@unocss/preset-web-fonts": "^0.33.5",
+    "@unocss/reset": "^0.33.5",
+    "svelte": "^3.48.0",
+    "svelte-check": "^2.7.1",
+    "svelte-preprocess": "^4.10.6",
+    "tslib": "^2.4.0",
+    "typescript": "^4.6.4",
+    "unocss": "^0.33.5",
     "vite": "^2.9.9"
   }
 }
